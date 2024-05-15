@@ -81,7 +81,9 @@ https://github.com/Vacblex/tabloo<head>
 
     </div>
 
-    <footer class="table">
+    <footer class="footer">
+    </footer>
+
       <table class="table">
       <thead>
         <tr>
@@ -100,8 +102,11 @@ https://github.com/Vacblex/tabloo<head>
             <td>row<td>
             <td>row<td>
         </tbody>
-    </footer>
+        <figure class="figure">
 
+        <img src=OIP.jpg class=img-fluid>
+          <figcaption class="figure-caption">?</figcaption>
+        </figure>
   </div>
 </body>
 
